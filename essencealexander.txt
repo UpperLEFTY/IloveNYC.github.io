@@ -1,0 +1,140 @@
+<span id="a">essence@alexander Last login: Nov 11 18:10:38 2017 from: 82-76-119-95.rdsnet.ro</span>:<span id="b">~</span><span id="c">essence$</span> essencealexander.txt<br/><br/>
+Hello, I'm Essence Alexander.<!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a 26 year old self-taught web developer specialising in Front End Development. I'm a coffee connoisseur, and a avid vinyl collector and a LEFTY.&nbsp<STRONG>Lefties</STRONG> do great things! I thrive on designing creative workspaces.My passion is to use technology based solutions, to help solve real world challenges.
+<p>Languages and Frameworks: HTML5, CSS3, Javascript, jQuery, Bootstrap3, Bootstrap4 Angular.js, Node.js, PHP, Meteor.js, vanilla.js and Ruby on Rails. Tools: Git, Responsive Web Design, Interactive design.</p>&nbsp“There’s no need to even have a college degree, at all. If someone graduated from a great university that may be an indication that they will be capable of great things but it’s not necessarily the case.” – Elon Musk</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>Feel free to check out some of my work on my Github Profile <a href="https://github.com/UpperLEFTY">UpperLEFTY Github</a> and check out my Codepen Profile<a href="https://codepen.io/upperLEFTY/">&nbspCodepen</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>I love to read, listen to music, and travel.&nbsp My favorite books are The Catcher and the Rye, A Tale of Two Cites, and The Shining.&nbsp A few of my favorite bands are Nine Inch Nails, Radiohead, and The Strokes. Any music from the 90's is my vice.&nbsp My favorite places to travel are Copenhagen,&nbspStavanger, and Brooklyn. </p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email or a message on Facebook.<!-- longlongcomment --> My email address is: <a href="mailto:upperlefty@zoho.eu">upperlefty@zoho.eu</a> and my Facebook is: <a href="https://www.facebook.com/UpperLEFTY">Essence&nbspAlexander</a>.
+<p>And if you haven't already, be sure to check out my LinkedIn Profile <a href="https://www.linkedin.com/in/essence-alexander-b57797150/">https://www.linkedin.com/in/essence-alexander-b57797150/</a> My personal website <a href="https://yoitsupperlefty.com/">https://yoitsupperlefty.com/</a>.</p>
+
+                <div class="command">
+		<!-- email -->
+		<p>[ec2-user@ip-127-0-0-1: ~]$ echo $email</p>
+		<span class="hideme">email: upperlefty@zoho.eu</span>
+		<!-- phone -->
+		<p>[ec2-user@ip-127-0-0-1: ~]$ echo $phone</p>
+		<span class="hideme">phone: (+40) 757-650-343</span>
+		<!-- address -->
+		<p>[ec2-user@ip-127-0-0-1: ~]$ echo $address</p>
+		<span class="hideme">address: Bucharest, Romania</span>
+		<!-- education -->
+		<p>[ec2-user@ip-127-0-0-1: ~]$ echo $education</p>
+		<span class="hideme">Codecademy, Free Code Camp<br></span>
+		<!-- eligible_to_work -->
+		<p>[ec2-user@ip-127-0-0-1: ~]$ echo $eligible_to_work</p>
+		<span class="hideme">I'm a US citizen, Visa free entry to 28 European countries</span>
+    </div>
+
+
+      <div class="parallax-window-half" data-parallax="scroll"</div>
+
+
+                <div class="container text-center"</div>
+
+
+              <!-- Block 4 (SHA-256 blockchain) -->
+              <div class="one-block latest-block">
+                <p class="h4 text-center">(SHA-256 blockchain)&nbspBlock #: 004</p>
+                <div class="block-data">
+                  <p>
+                    <label>Title:</label><b>&nbspFront End Developer</b></p>
+                  <p>
+                    <label>Company:</label>&nbspUpwork</p>
+                  <p>
+                    <label>Stack:</label>&nbspHTML5, CSS3, Javascript, PHP7, AWS, Bootstrap 3, Bootstrap4, Node.js</p>
+                  <p>
+                    <label>Time:</label>&nbspJune 2017 - Present</p>
+                </div>
+                <div>
+                  <br>
+                  <p class="truncate">
+                    <small><label>Hash: </label>2ced301cea95102353465b5c96c2c313ca1ac39c593586fdbcf0692ed50e9538</small>
+                    <br>
+                    <small><label>Previous Hash: </label>878d1ef78d76e1cd006b89f323de4dce4064fafe2c38d5c711fe83f5e04bb0b2</small>
+                  </p>
+                </div>
+              </div>
+
+
+              <!-- Block 3 (SHA-256 blockchain) -->
+              <div class="one-block">
+                <p class="h4 text-center">(SHA-256 blockchain)&nbspBlock #: 003</p>
+                <div class="block-data">
+                  <p>
+                    <label>Title:</label><b>&nbspFront End Developer</b></p>
+                  <p>
+                    <label>Company:</label>&nbspTophat Software</p>
+                  <p>
+                    <label>Stack:</label>&nbspHTML5, CSS3, Javascript, jQuery, PHP7, Node.js, Angular.js</p>
+                  <p>
+                    <label>Time:</label>&nbspJuly 2017 - Oct 2017</p>
+                </div>
+                <div>
+                  <br>
+                  <p class="truncate">
+                    <small><label>Hash: </label>878d1ef78d76e1cd006b89f323de4dce4064fafe2c38d5c711fe83f5e04bb0b2</small>
+                    <br>
+                    <small><label>Previous Hash:</label>2ced301cea95102353465b5c96c2c313ca1ac39c593586fdbcf0692ed50e9532</small>
+                  </p>
+                </div>
+              </div>
+
+
+              <!-- Block 2 (SHA-256 blockchain) -->
+              <div class="one-block">
+                <p class="h4 text-center">(SHA-256 blockchain)&nbspBlock #: 002</p>            
+                <div class="block-data">
+                  <p>
+                    <label>Title:</label><b>&nbspFront End Developer</b></p>
+                  <p>
+                    <label>Company:</label>&nbspSubzero Software</p>
+                  <p>
+                    <label>Stack:</label>&nbspVue.js, CoffeeScript, JS, HTML5, CSS3</p>
+                  <p>
+                    <label>Time:</label>&nbspJune 2017 - Nov 2017</p>
+                </div>
+                <div>
+                  <br>
+                  <p class="truncate">
+                    <small><label>Hash: </label>1bf4db795332f322f1d9d125b975560c11ebdb084e79ec1261c74819505a0532</small>
+                    <br>
+                    <small><label>Previous Hash:           	</label>0fdf18af6009579cf35fdc82d130e658bca9037705b3a87142a27daeff138d78</small>
+                  </p>
+                </div>
+              </div>
+
+
+              <!-- Block 1 (SHA-256 blockchain) -->
+              <div class="one-block">
+                <p class="h4 text-center">(SHA-256 blockchain)&nbspBlock #: 001</p>            
+                <div class="block-data">
+                  <p>
+                    <label>Title:</label><b>&nbspFront End Developer</b></p>
+                  <p>
+                    <label>Company:</label>&nbspEvents.com</p>
+                  <p>
+                    <label>Stack:</label>&nbspHTML5, CSS3, Javascript, Node.js</p>
+                  <p>
+                    <label>Time:</label>&nbspOct 2017 - Nov 2017</p>
+                </div>
+                <div>
+                  <br>
+                  <p class="truncate">
+                    <small><label>Hash: </label>6bf4db795332f322f1d9d125b975560c11ebdb084e79ec1261c74819505a0591</small>
+                    <br>
+                    <small><label>Previous Hash: </label>0fdf18af6009579cf35fdc82d130e658bca9037705b3a87142a27daeff138d72</small>
+
+                <br> <small><label>&nbsp;</label>"Genesis Block"</small></br>
+                  </p>
+                </div>
+              </div>
+
+              <div class="text-center h5">SHA-256 blockchain</div>
+            </div>
+
+            <pre>
+                   __|  __|_  )
+                   _|  (     /   Amazon Linux AMI
+                  ___|\___|___|
+
+            Amazon Linux version 2017.09 is available.
+            </pre>
